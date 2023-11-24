@@ -4,7 +4,7 @@ This plugin is coded by **DieserEliasYT**. Its free and it will always be. So wh
 ## How to use it?
 For example: Write "**@team**" in front of your message and the message will only
 be sent to players which got the permission you can set in the config.yml
-For now there are **6 different ranks**. You can edit everything exept for the groups, just the messages od chat format (how you want to display your team/rankchat in your chat).
+For now there are **6 different ranks**. You can edit everything exept for the groups, just the messages or chat format (how you want to display your team/rankchat in your chat).
 
 Feel free to use this plugin! You are not allowed to claim the plugin as your own.
 
