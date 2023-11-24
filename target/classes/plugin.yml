@@ -1,0 +1,7 @@
+name: TeamChatPlugin
+version: '1.0'
+main: dieserblock.teamchatplugin.Main
+api-version: '1.20'
+commands:
+  teamchat:
+    description: Shows plugin information or reload the plugin. All prefixes/perms/msgs are in the config.yml and are fully configurable

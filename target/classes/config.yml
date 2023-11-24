@@ -1,0 +1,67 @@
+# TeamChat coded by DieserEliasYT
+# on 24.11.2023 (21:09)
+#
+# The sourcecode is available at GitHub
+# Link is at the spigot-page
+#
+# Do not change any of those terms, just edit the messages, you cant add ranks btw, that's
+# why I just created more of them.
+# It may be that not everything is reloaded with the "/teamchat reload", simply reload
+# with the PlugManX plugin or restart the server. Or just try to reload by our command.
+# If you have any questions, feel free to open a Support-Ticket on our discord server!
+#
+# https://discord.gg/CyCudZjzjR
+# https://discord.gg/CyCudZjzjR
+# https://discord.gg/CyCudZjzjR
+#
+#
+#
+# Messages:
+Prefix: '§cTeam§7Chat §8| §7'
+noPerm: '§cYou are not allowed to do that!'
+reloadMSG: '§aThe configuration file has been successfully reloaded!'
+adminPerm: 'teamchat.*'
+TeamChatColor: '§7'
+TeamChatSymbol: '§8>>§7 '
+noChatPerm: '§cYou are not allowed to write in that chat!'
+#
+# Do not rename the rank groups! Just edit the format
+#
+# Rank 1:
+Rank1: '§4Owner-Chat §8| §7'
+Rank1perm: 'teamchat.owner'
+Rank1see: 'teamchat.owner.see'
+Rank1pre: '@owner'
+#
+# Rank 2:
+Rank2: '§cAdmin-Chat §8| §7'
+Rank2perm: 'teamchat.admin'
+Rank2see: 'teamchat.admin.see'
+Rank2pre: '@admin'
+#
+# Rank 3:
+Rank3: '§1Dev-Chat §8| §7'
+Rank3perm: 'teamchat.dev'
+Rank3see: 'teamchat.dev.see'
+Rank3pre: '@dev'
+#
+# Rank 4:
+Rank4: '§2Mod-Chat §8| §7'
+Rank4perm: 'teamchat.mod'
+Rank4see: 'teamchat.mod.see'
+Rank4pre: '@mod'
+#
+# Rank 5:
+Rank5: '§3Sup-Chat §8| §7'
+Rank5perm: 'teamchat.sup'
+Rank5see: 'teamchat.sup.see'
+Rank5pre: '@sup'
+#
+# Rank 6:
+# This group is for teamchat in general
+Rank6: '§eTeamChat §8| §7'
+Rank6perm: 'teamchat.team'
+Rank6see: 'teamchat.team.see'
+Rank6pre: '@team'
+#
+
